@@ -1,0 +1,20 @@
+{
+  "name": "softuni-cubicle-app-2023",
+  "version": "1.0.0",
+  "description": "Workshop on a back-end application at SoftUni",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7",
+    "uniqid": "^5.4.0"
+  }
+}
