@@ -2,9 +2,9 @@
   "name": "softuni-cubicle-app-2023",
   "version": "1.0.0",
   "description": "Workshop on a back-end application at SoftUni",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon src/index.js"
   },
   "keywords": [],
   "author": "",
